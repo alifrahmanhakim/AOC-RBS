@@ -1,0 +1,27 @@
+{
+  "name": "final--aoc-risk-management-system-with-economic-analysis",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "react-dom": "^19.1.0",
+    "react-router-dom": "^7.6.2",
+    "react-hot-toast": "^2.5.2",
+    "react": "^19.1.0",
+    "recharts": "^2.15.3",
+    "papaparse": "5.4.1",
+    "@google/genai": "^1.4.0",
+    "leaflet": "1.9.4",
+    "react-router": "^7.6.3"
+  },
+  "devDependencies": {
+    "@types/node": "^22.14.0",
+    "typescript": "~5.7.2",
+    "vite": "^6.2.0"
+  }
+}
